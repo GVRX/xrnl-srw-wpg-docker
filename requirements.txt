@@ -1,0 +1,13 @@
+mock 
+numpy
+setuptools
+pytest
+matplotlib 
+h5py
+jupyter
+numexpr
+os
+functools
+beautifultable
+termcolor
+
