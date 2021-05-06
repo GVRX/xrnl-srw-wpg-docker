@@ -1,6 +1,4 @@
 
-xl
-xrnl
 *.hdf
 *.pkl
 *.tif
@@ -10,3 +8,6 @@ dockerUtils/runMOD.sh
 README.singularity+LIMS-HPC.rtf
 requirements2.txt
 dockerUtils/interactive.md
+
+xrnl
+xl
