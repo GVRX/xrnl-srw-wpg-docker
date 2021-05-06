@@ -10,4 +10,6 @@ os
 functools
 beautifultable
 termcolor
+re
+python-slugify
 
